@@ -1,0 +1,6 @@
+D:\Projects\Reservations\UIClient\bin\UIClient.dll.config
+D:\Projects\Reservations\UIClient\bin\UIClient.dll
+D:\Projects\Reservations\UIClient\bin\UIClient.pdb
+D:\Projects\Reservations\UIClient\obj\Debug\UIClient.csprojResolveAssemblyReference.cache
+D:\Projects\Reservations\UIClient\obj\Debug\UIClient.dll
+D:\Projects\Reservations\UIClient\obj\Debug\UIClient.pdb

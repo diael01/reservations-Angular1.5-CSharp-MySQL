@@ -1,0 +1,8 @@
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Debug\e2e.TestFramework.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Debug\e2e.TestFramework.pdb
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Debug\WebDriver.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Debug\WebDriver.Support.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Debug\WebDriver.xml
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Debug\WebDriver.Support.xml
+D:\Projects\Reservations\Tests\e2e.TestFramework\obj\Debug\e2e.TestFramework.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\obj\Debug\e2e.TestFramework.pdb

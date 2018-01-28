@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 56.0.2924 (Windows 10 0.0.0)" package="" timestamp="2017-03-13T14:15:01" id="0" hostname="LAPTOP-2QS7OKMT" tests="3" errors="0" failures="1" time="0.196">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"/>
+  </properties>
+  <testcase name="Facilities Controller should load facilities" time="0.135" classname="Chrome_56_0_2924_(Windows_10_0_0_0).Facilities Controller">
+    <failure type="">Error: Unexpected request: GET http://localhost:50325/api/facilities/getFacilities
+No more request expected
+    at $httpBackend (scripts/angular-mocks.js:1419:9)
+    at sendReq (scripts/angular.js:11947:9)
+    at serverRequest (scripts/angular.js:11742:16)
+    at processQueue (scripts/angular.js:16606:28)
+    at scripts/angular.js:16622:27
+    at Scope.$eval (scripts/angular.js:17913:28)
+    at Scope.$digest (scripts/angular.js:17727:31)
+    at Scope.$apply (scripts/angular.js:18021:24)
+    at Object.&lt;anonymous&gt; (tests/facilitiesController.spec.js:37:20)
+</failure>
+  </testcase>
+  <testcase name="facilities service should return facilities" time="0.036" classname="Chrome_56_0_2924_(Windows_10_0_0_0).facilities service"/>
+  <testcase name="facilities service should handle error" time="0.025" classname="Chrome_56_0_2924_(Windows_10_0_0_0).facilities service"/>
+  <system-out>
+    <![CDATA[Chrome 56.0.2924 (Windows 10 0.0.0) ERROR
+  Disconnectedundefined
+,Chrome 56.0.2924 (Windows 10 0.0.0) LOG: 'Errorundefined'
+
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>

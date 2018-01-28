@@ -1,0 +1,9 @@
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Release\e2e.TestFramework.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Release\e2e.TestFramework.pdb
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Release\WebDriver.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Release\WebDriver.Support.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Release\WebDriver.xml
+D:\Projects\Reservations\Tests\e2e.TestFramework\bin\Release\WebDriver.Support.xml
+D:\Projects\Reservations\Tests\e2e.TestFramework\obj\Release\e2e.TestFramework.dll
+D:\Projects\Reservations\Tests\e2e.TestFramework\obj\Release\e2e.TestFramework.pdb
+D:\Projects\Reservations\Tests\e2e.TestFramework\obj\Release\e2e.TestFramework.csprojResolveAssemblyReference.cache

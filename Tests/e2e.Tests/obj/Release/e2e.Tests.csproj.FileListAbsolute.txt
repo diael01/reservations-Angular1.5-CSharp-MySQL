@@ -1,0 +1,11 @@
+D:\Projects\Reservations\e2e.Tests\bin\Release\e2e.Tests.dll
+D:\Projects\Reservations\e2e.Tests\bin\Release\e2e.Tests.pdb
+D:\Projects\Reservations\e2e.Tests\obj\Release\e2e.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Reservations\e2e.Tests\obj\Release\e2e.Tests.dll
+D:\Projects\Reservations\e2e.Tests\obj\Release\e2e.Tests.pdb
+D:\Projects\Reservations\Tests\e2e.Tests\bin\Release\e2e.Tests.dll
+D:\Projects\Reservations\Tests\e2e.Tests\bin\Release\e2e.Tests.pdb
+D:\Projects\Reservations\Tests\e2e.Tests\obj\Release\e2e.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Reservations\Tests\e2e.Tests\obj\Release\e2e.Tests.dll
+D:\Projects\Reservations\Tests\e2e.Tests\obj\Release\e2e.Tests.pdb
+D:\Projects\Reservations\Tests\e2e.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

@@ -1,0 +1,5 @@
+D:\Projects\Reservations\Tests\e2e.Tests\bin\Debug\e2e.Tests.dll
+D:\Projects\Reservations\Tests\e2e.Tests\bin\Debug\e2e.Tests.pdb
+D:\Projects\Reservations\Tests\e2e.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Reservations\Tests\e2e.Tests\obj\Debug\e2e.Tests.dll
+D:\Projects\Reservations\Tests\e2e.Tests\obj\Debug\e2e.Tests.pdb

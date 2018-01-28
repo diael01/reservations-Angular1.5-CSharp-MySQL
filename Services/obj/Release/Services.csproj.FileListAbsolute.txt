@@ -1,0 +1,16 @@
+D:\Projects\Reservations\Services\bin\Release\Services.dll
+D:\Projects\Reservations\Services\bin\Release\Services.pdb
+D:\Projects\Reservations\Services\bin\Release\Contracts.dll
+D:\Projects\Reservations\Services\bin\Release\Repositories.dll
+D:\Projects\Reservations\Services\bin\Release\Drapper.dll
+D:\Projects\Reservations\Services\bin\Release\Dapper.dll
+D:\Projects\Reservations\Services\bin\Release\Drapper.Validation.dll
+D:\Projects\Reservations\Services\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Reservations\Services\bin\Release\Contracts.pdb
+D:\Projects\Reservations\Services\bin\Release\Repositories.pdb
+D:\Projects\Reservations\Services\bin\Release\Dapper.xml
+D:\Projects\Reservations\Services\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Reservations\Services\obj\Release\Services.csprojResolveAssemblyReference.cache
+D:\Projects\Reservations\Services\obj\Release\Services.dll
+D:\Projects\Reservations\Services\obj\Release\Services.pdb
+D:\Projects\Reservations\Services\bin\Release\Contracts.dll.config

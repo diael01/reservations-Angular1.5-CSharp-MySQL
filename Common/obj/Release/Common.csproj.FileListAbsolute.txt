@@ -1,0 +1,5 @@
+D:\Projects\Reservations\Common\bin\Release\Common.dll
+D:\Projects\Reservations\Common\bin\Release\Common.pdb
+D:\Projects\Reservations\Common\obj\Release\Common.dll
+D:\Projects\Reservations\Common\obj\Release\Common.pdb
+D:\Projects\Reservations\Common\obj\Release\Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Projects\Reservations\Common\bin\Debug\Common.dll
+D:\Projects\Reservations\Common\bin\Debug\Common.pdb
+D:\Projects\Reservations\Common\obj\Debug\Common.dll
+D:\Projects\Reservations\Common\obj\Debug\Common.pdb

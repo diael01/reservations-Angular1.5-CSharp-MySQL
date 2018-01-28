@@ -1,0 +1,11 @@
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\UIClient.Tests.dll.config
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\UIClient.Tests.dll
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\UIClient.Tests.pdb
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\UIClient.dll
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\UIClient.pdb
+D:\Projects\Reservations\Tests\UIClient.Tests\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Projects\Reservations\Tests\UIClient.Tests\obj\Release\UIClient.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Reservations\Tests\UIClient.Tests\obj\Release\UIClient.Tests.dll
+D:\Projects\Reservations\Tests\UIClient.Tests\obj\Release\UIClient.Tests.pdb
